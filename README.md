@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kenny Ho</h1>
 <h3 align="center">A passionate frontend developer in the DMV area</h3>
 
+- 🔭 I’m currently working on **Personal Budget Application**
+
+- 🌱 I’m currently learning **Node.JS, React**
+
+- 👯 I’m looking to collaborate on **any open source project that involves web development**
+
+- 📫 How to reach me **tknh42@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
